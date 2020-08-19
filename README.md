@@ -8,7 +8,7 @@ These scripts work by taking an iput image (ideally one with transparent areas) 
 
 These scripts are really slow, especially if you use large images or long/big gifs. Any ImageMagick experts that can improve it please do!
 
-This script was first (created in 2015)[https://gist.github.com/hellocatfood/9587f1d83ad1e15bcf8a] and used in (this video)[https://www.youtube.com/watch?v=6Jrw2XproUg]
+This script was first [created in 2015](https://gist.github.com/hellocatfood/9587f1d83ad1e15bcf8a) and used in [this video](https://www.youtube.com/watch?v=6Jrw2XproUg)
 
 ## Dependencies
 
