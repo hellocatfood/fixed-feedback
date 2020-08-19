@@ -10,6 +10,8 @@ These scripts are really slow, especially if you use large images or long/big gi
 
 This script was first [created in 2015](https://gist.github.com/hellocatfood/9587f1d83ad1e15bcf8a) and used in [this video](https://www.youtube.com/watch?v=6Jrw2XproUg). This update adds ability to process animated gifs.
 
+![example image](https://media.giphy.com/media/QXIqVZqB24glr1d20f/source.gif)
+
 ## Dependencies
 
 ImageMagick (version 6 used, not tested on 7)
