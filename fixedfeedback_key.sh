@@ -21,7 +21,7 @@ convert $1 ${inputfile%.*}_feedback.miff
 
 while [ $loop -le $2 ]
 	do echo "loop $loop of $2" 
-	convert \( ${inputfile%.*}_feedback.miff -fuzz $fuzz% -transparent $color -distort SRT  0.96,0 -modulate 100,101,102 -threshold 50% -negate \) \
+	convert \( ${inputfile%.*}_feedback.miff -fuzz $fuzz% -transparent $color -distort SRT  0.96,0 -threshold 50% -negate \) \
 		null: \
 		\( ${inputfile%.*}_feedback.miff -fuzz $fuzz% -transparent $color \) \
 		-background none \
