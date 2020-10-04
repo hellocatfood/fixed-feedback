@@ -10,7 +10,13 @@ These scripts are really slow, especially if you use large images or long/big gi
 
 This script was first [created in 2015](https://gist.github.com/hellocatfood/9587f1d83ad1e15bcf8a) and used in [this video](https://www.youtube.com/watch?v=6Jrw2XproUg). This update adds ability to process animated gifs.
 
-![example image](https://media.giphy.com/media/WoXtslW4ptgtYjRVXz/giphy.gif) ![example image](https://media.giphy.com/media/jR06ub8jXk4ejsIhOo/giphy.gif)
+Input file
+
+![example image](https://media.giphy.com/media/WoXtslW4ptgtYjRVXz/giphy.gif) 
+
+Output file
+
+![example image](https://media.giphy.com/media/jR06ub8jXk4ejsIhOo/giphy.gif)
 
 ## Dependencies
 
